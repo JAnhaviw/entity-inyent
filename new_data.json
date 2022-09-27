@@ -1,0 +1,218 @@
+{
+    "BookMetting": [
+      {
+        "data": [
+          {
+            "text": "Please schedule a meeting"
+          },
+          {
+            "text": "with Archana",
+            "entity": "NAME"
+            
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "text": "Please schedule a meeting with"
+          },
+          {
+            "text": "Kumar",
+            "entity": "NAME"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "at 5 PM",
+            "entity": "TIME"
+          },
+          {
+            "text": "and send invite to the mail"
+          },
+          {
+            "text": "abc.j@worktual.com",
+            "entity": "EMAIL-ID"
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "text": "I would like to have a meeting with "
+          },
+          {
+            "text": "John",
+            "entity": "NAME"
+          },
+          {
+            "text": " in "
+          },
+          {
+            "text": "Tomorrow",
+            "entity": "DAY"
+          },
+          {
+            "text": " that is "
+          },
+          {
+            "text": "12-31-2022",
+            "entity": "DATE"
+          },
+          {
+            "text": "regarding"
+          },
+          {
+            "text": "Team review",
+            "entity": "TOPIC"
+          }
+        ]
+      },
+     
+      {
+        "data": [
+          {
+            "text": "Please arranage a meeting with"
+          },
+          {
+            "text": "RAVI",
+            "entity": "NAME"
+          },
+          {
+            "text": " and"
+          },
+          {
+            "text": "his team members",
+            
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "30-09-2022",
+            "entity": "DATE"
+          },
+          {
+            "text": "at"
+          },
+          {
+            "text": "11 AM",
+            "entity": "TIME"
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "text": "Please arranage a meeting with"
+          },
+          {
+            "text": "RAVI",
+            "entity": "NAME"
+          },
+          {
+            "text": " and"
+          },
+          {
+            "text": "his team members",
+            
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "30-09-2022",
+            "entity": "DATE"
+          },
+          {
+            "text": "at"
+          },
+          {
+            "text": "11 AM",
+            "entity": "TIME"
+          },
+          {
+            "text": "jan@worktual.com",
+            "entity": "EMAIL-ID"
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "text": "Please arranage a meeting with"
+          },
+          {
+            "text": "RAVI",
+            "entity": "NAME"
+          },
+          {
+            "text": " and"
+          },
+          {
+            "text": "his team members"
+            
+          },
+          {
+            "text": "9",
+            "entity":"QTY"
+          },
+          {
+            "text": "15-09-2022",
+            "entity": "DATE"
+          },
+          {
+            "text": "at"
+          },
+          {
+            "text": "10 AM",
+            "entity": "TIME"
+          },
+          {
+            "text": "baba@worktual.com",
+            "entity": "EMAIL-ID"
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "text": "Please arranage a meeting with"
+          },
+          {
+            "text": "VISWA",
+            "entity": "NAME"
+          },
+          {
+            "text": " and"
+          },
+          {
+            "text": "his team members"
+            
+          },
+          {
+            "text": "9",
+            "entity":"QTY"
+          },
+          {
+            "text": "15-09-2022",
+            "entity": "DATE"
+          },
+          {
+            "text": "Thursday",
+            "entity":"DAY"
+
+          },
+          {
+            "text": "9 AM",
+            "entity": "TIME"
+          },
+          {
+            "text": "hari@worktual.com",
+            "entity": "EMAIL-ID"
+          }
+        ]
+      }
+    ]
+  }
